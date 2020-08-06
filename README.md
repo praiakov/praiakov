@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Welcome!
+Here something about me:
 
-<!--
-**praiakov/praiakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I’m currently working at Energisa as Analyst Developer
+- 💪 I’m enthusiast in .NET, Architecture
+- 💬 Ask me about: Development :)
+- ⚡ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas) and [dotnetBusiness-BR](https://github.com/praiakov/DotnetBusiness-BR)
 
-Here are some ideas to get you started:
+#### Follow me on my social networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/praiakov)](https://github.com/praiakov)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianopraia/)](https://www.linkedin.com/in/adrianopraia/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/praiakov/)](https://www.instagram.com/praiakov/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/praiakov)](https://t.me/praiakov)
