@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 💼 I’m currently working at Energisa as Analyst Developer
+- 💼 I’m currently working at Exago as .NET Developer
 - 💪 I’m enthusiast in .NET, Architecture
 - 💬 Ask me about: Development :)
 - ⚡ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas) and [dotnetBusiness-BR](https://github.com/praiakov/DotnetBusiness-BR)
