@@ -11,5 +11,5 @@
 
 ### Contact me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianopraia/)](https://www.linkedin.com/in/adrianopraia/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/praiakov)](https://t.me/praiakov)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adrianopraia/)](https://www.linkedin.com/in/adrianopraia/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram&logoColor=grey&link=https://t.me/praiakov)](https://t.me/praiakov)
