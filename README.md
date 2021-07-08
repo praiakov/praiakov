@@ -7,9 +7,10 @@
 🔤 I’m enthusiast in Software Architecture, Go and .NET
 💬 Ask me about: Developemt :)
 ```
+
 ↪️ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas)
 
-### Contact me 📫
+### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adrianopraia/)](https://www.linkedin.com/in/adrianopraia/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram&logoColor=grey&link=https://t.me/praiakov)](https://t.me/praiakov)
