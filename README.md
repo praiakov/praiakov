@@ -1,14 +1,14 @@
-### 🤖 Hello, friend
+## 🤖 Hello, friend
 
 ### ☄️ Here something about me:
 
 ```
 💻 I’m currently working at Ifood as Back-End Engineer
 🔤 I’m enthusiast in Software Architecture, Go and .NET
-💬 Ask me about: Developemt :)
+💬 Ask me about: Development :)
 ```
 
-↪️ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas)
+###### ↪️ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas)
 
 ### 📫 How to reach me
 
