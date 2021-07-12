@@ -10,6 +10,8 @@
 
 ###### ↪️ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas)
 
+---
+
 ### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adrianopraia/)](https://www.linkedin.com/in/adrianopraia/)
