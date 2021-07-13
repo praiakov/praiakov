@@ -8,9 +8,12 @@
 💬 Ask me about: Development :)
 ```
 
-###### ↪️ Check my repos specially [Thomas Project](https://github.com/praiakov/Thomas)
+###### ↪️ Check my repos specially:
+###### 🎩 [Thomas Project](https://github.com/praiakov/Thomas) - CoreMvc application for controlling providers' callings
+###### 📙 [Backend Roadmap](https://github.com/praiakov/Backend-Roadmap) - The repository shows you how to become a developer / backend engineer
 
 ---
+
 
 ### 📫 How to reach me
 
