@@ -3,7 +3,7 @@
 ### ☄️ Here something about me:
 
 ```
-💻 I’m currently working at Ifood as Back-End Engineer
+💻 I’m currently working as Back-End Engineer
 🔤 I’m enthusiast in Software Architecture, Go and .NET
 💬 Ask me about: Development :)
 ```
